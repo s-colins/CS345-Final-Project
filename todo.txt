@@ -1,0 +1,8 @@
+1. Use ExtraTrees
+2. Use cross_validate to get the stuff in a nice pandas dataframe
+3. Maybe ordering some categorical data is a good thing
+
+Either a new classifier that is similar to
+1. KNearestNeighbors -> RadiusNeighbors
+2. SVC
+3. RandomForest
